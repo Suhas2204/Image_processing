@@ -17,3 +17,4 @@ edges = edges.reshape(img_array.shape)
 plt.imshow(edges, cmap='gray')
 plt.title('Edge Detection')
 plt.show()
+
